@@ -13,8 +13,7 @@ body {
   color:rgb(255, 255, 255);
   font-family:Helvetica, serif;
   font-weight:100;
-  /* background-image:url("http://grapesjs.com/img/bg-gr-v.png"), url("http://grapesjs.com/img/work-desk.jpg"); */
-  background-image:url("http://grapesjs.com/img/work-desk.jpg");
+  background-image:url("http://grapesjs.com/img/bg-gr-v.png"), url("http://grapesjs.com/img/work-desk.jpg"); 
   background-attachment:fixed, scroll;
   background-position-x:left, center;
   background-position-y:top, center;
