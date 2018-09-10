@@ -179,13 +179,13 @@ body {
 }
 .card-header{
   height:155px;
-  background-image:url("/image/MakerToolBox.png");
+  background-image:url("/images/MakerToolBox.png");
   background-size:cover;
   background-position-x:center;
   background-position-y:center;
 }
 .card-header.ch2{
-  background-image:url("/image/MakerOS.jpg");
+  background-image:url("/images/MakerOS.jpg");
 }
 .card-header.ch3{
   background-image:url("http://placehold.it/350x250/79c267/fff/image3.jpg");
