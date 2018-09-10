@@ -185,10 +185,10 @@ body {
   background-position-y:center;
 }
 .card-header.ch2{
-  background-image:url("/images/MakerOS.jpg");
+  background-image:url("http://placehold.it/350x250/c5d647/fff/image4.jpg");
 }
 .card-header.ch3{
-  background-image:url("http://placehold.it/350x250/79c267/fff/image3.jpg");
+  background-image:url("/images/MakerOS.jpg");
 }
 .card-header.ch4{
   background-image:url("http://placehold.it/350x250/c5d647/fff/image4.jpg");
