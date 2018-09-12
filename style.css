@@ -86,6 +86,7 @@ body {
   color:rgb(198, 198, 198);
 }
 .lead-btn{
+  text-decoration: none;
   margin-top:15px;
   padding-top:10px;
   padding-right:10px;
